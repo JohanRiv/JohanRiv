@@ -11,4 +11,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He
 - ❤️ Love: Videogames, Movies & Code
 
-####Flutter
+Skills:
+
+- Flutter
+- Dart
+- Microsoft Azure
+- Cloud computing
