@@ -4,7 +4,7 @@ I am a systems engineer passionate for learning and creating wonderful things, I
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Microsoft
+- 🔭 I’m currently working on my self discovery.
 - 🌱 I’m currently learning Dart, Flutter & Node.js
 - 💬 Ask me about Cloud Computing & Mobile App Development with Flutter and Dart
 - 📫 How to reach me: https://www.linkedin.com/in/johanriv/
